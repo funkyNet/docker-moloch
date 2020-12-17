@@ -49,6 +49,4 @@ EXPOSE 8005
 WORKDIR /data/moloch
 
 ENTRYPOINT ["/data/startmoloch.sh"]
-  
-
 
